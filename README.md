@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @GeryAndWilyMake
+- 👀 I’m interested in modding
+- 🌱 I’m currently learning c++, python, java, java script, html5.
+- 💞️ I’m looking to collaborate on mods
+- 📫 How to reach me gery.wily@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i like to code
